@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B9B42265-D191-4EBF-A102-EC922C25E7CF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9722889B-E2F1-4E25-9390-1D3A27662AF1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "eggTimer/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9722889B-E2F1-4E25-9390-1D3A27662AF1 - 27a8f54ae6b1212d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eggTimer.ViewController.titleLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "eggTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsipachamatla/Desktop/IOS_App_Development/eggTimer/eggTimer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "9722889B-E2F1-4E25-9390-1D3A27662AF1 - 4de3a2ed9be88b21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eggTimer.ViewController.titleLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "eggTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsipachamatla/Desktop/IOS_App_Development/eggTimer/eggTimer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "9722889B-E2F1-4E25-9390-1D3A27662AF1 - 75a26b5cbd8e09dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eggTimer.ViewController.titleLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "eggTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsipachamatla/Desktop/IOS_App_Development/eggTimer/eggTimer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "9722889B-E2F1-4E25-9390-1D3A27662AF1 - 122f093f07b434b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eggTimer.ViewController.titleLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "eggTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsipachamatla/Desktop/IOS_App_Development/eggTimer/eggTimer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "9722889B-E2F1-4E25-9390-1D3A27662AF1 - cd3164d1c3543a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eggTimer.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; eggTimer.ViewController"
+                  moduleName = "eggTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsipachamatla/Desktop/IOS_App_Development/eggTimer/eggTimer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "9722889B-E2F1-4E25-9390-1D3A27662AF1 - 3b752a51d7573444"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eggTimer.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;eggTimer.ViewController&gt;"
+                  moduleName = "eggTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsipachamatla/Desktop/IOS_App_Development/eggTimer/eggTimer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "268">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
